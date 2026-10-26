@@ -1,0 +1,33 @@
+# LOGS SIMULADOS DE ACESSO AO SERVIDOR WEB
+# Formato: IP_ORIGEM | EMAIL | DATA_HORA | RESULTADO
+
+192.0.2.14 | ana.silva@example.com | 2026-10-26 08:01:12 | LOGIN_SUCESSO
+198.51.100.23 | admin@example.com | 2026-10-26 08:02:03 | LOGIN_ERRO
+198.51.100.23 | admin@example.com | 2026-10-26 08:02:07 | LOGIN_ERRO
+198.51.100.23 | admin@example.com | 2026-10-26 08:02:11 | LOGIN_ERRO
+203.0.113.45 | bruno.lima@example.com | 2026-10-26 08:03:19 | LOGIN_SUCESSO
+198.51.100.23 | root@example.com | 2026-10-26 08:03:24 | LOGIN_ERRO
+198.51.100.23 | suporte@example.com | 2026-10-26 08:03:29 | LOGIN_ERRO
+192.0.2.77 | carla.souza@example.com | 2026-10-26 08:04:02 | LOGIN_SUCESSO
+198.51.100.23 | financeiro@example.com | 2026-10-26 08:04:08 | LOGIN_ERRO
+198.51.100.23 | admin@example.com | 2026-10-26 08:04:13 | LOGIN_ERRO
+203.0.113.88 | diego.rocha@example.com | 2026-10-26 08:05:41 | LOGIN_ERRO
+192.0.2.14 | ana.silva@example.com | 2026-10-26 08:06:10 | LOGIN_SUCESSO
+198.51.100.23 | secretaria@example.com | 2026-10-26 08:06:17 | LOGIN_ERRO
+198.51.100.23 | admin@example.com | 2026-10-26 08:06:22 | LOGIN_ERRO
+198.51.100.23 | vendas@example.com | 2026-10-26 08:06:27 | LOGIN_ERRO
+203.0.113.45 | bruno.lima@example.com | 2026-10-26 08:07:03 | LOGIN_ERRO
+192.0.2.91 | elisa.moura@example.com | 2026-10-26 08:07:49 | LOGIN_SUCESSO
+198.51.100.23 | admin@example.com | 2026-10-26 08:08:01 | LOGIN_ERRO
+198.51.100.23 | root@example.com | 2026-10-26 08:08:06 | LOGIN_ERRO
+198.51.100.23 | suporte@example.com | 2026-10-26 08:08:12 | LOGIN_ERRO
+203.0.113.88 | diego.rocha@example.com | 2026-10-26 08:09:37 | LOGIN_SUCESSO
+192.0.2.77 | carla.souza@example.com | 2026-10-26 08:10:05 | LOGIN_ERRO
+198.51.100.23 | admin@example.com | 2026-10-26 08:10:11 | LOGIN_ERRO
+198.51.100.23 | admin@example.com | 2026-10-26 08:10:16 | LOGIN_ERRO
+198.51.100.23 | usuario@example.com | 2026-10-26 08:10:21 | LOGIN_ERRO
+192.0.2.14 | ana.silva@example.com | 2026-10-26 08:11:02 | LOGIN_SUCESSO
+203.0.113.45 | bruno.lima@example.com | 2026-10-26 08:12:44 | LOGIN_SUCESSO
+198.51.100.23 | admin@example.com | 2026-10-26 08:13:01 | LOGIN_ERRO
+198.51.100.23 | root@example.com | 2026-10-26 08:13:06 | LOGIN_ERRO
+198.51.100.23 | suporte@example.com | 2026-10-26 08:13:12 | LOGIN_ERRO
